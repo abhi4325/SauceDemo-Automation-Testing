@@ -50,6 +50,12 @@ SauceDemo_Automation/
 ```bash
 python -m pip install -r requirements.txt
 ```
+## Manual Testing Documentation
+
+- Created 15 test scenarios for the SauceDemo e-commerce application.
+- Documented test cases in Microsoft Excel, including test steps and expected results.
+- Covered login, product listing, shopping cart, and checkout functionality.
+- Maintained test documentation for manual testing and validation.
 
 ## Running the Tests
 
